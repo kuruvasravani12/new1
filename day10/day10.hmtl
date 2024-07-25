@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en"
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width,initial-scal=1.0">
+    <title>URL</title>
+</head>
+<body>
+    <h1>MERN</h1>
+    <a href="https://en.wikipedia.org/wiki/Source-available"><img src="https://itadminguide.com/wp-content/uploads/2021/03/MongoDB-768x462.jpg" width="200"</a>
+    <a href="https://en.wikipedia.org/wiki/Front_end_and_back_end"><img src="https://logodix.com/logo/1765166.jpg" width=100</a>
+    <a href="https://en.wikipedia.org/wiki/Web_framework"><img src="https://bryntum.com/wp-content/uploads/2019/09/Angular-Logo.png" width=100</a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://logosdownload.com/logo/javascript-logo-big.png" width=80</a>
+    <br>
+    <br>
+    <h1>MEAN</h1>
+    <a href="https://en.wikipedia.org/wiki/Source-available"><img src="https://itadminguide.com/wp-content/uploads/2021/03/MongoDB-768x462.jpg" width="200""</a>
+    <a href="https://en.wikipedia.org/wiki/Front_end_and_back_end"><img src="https://logodix.com/logo/1765166.jpg" width="100"</a>
+    <a href="https://en.wikipedia.org/w/index.php?title=Recent_js&action=edit&redlink=1"><img src="https://th.bing.com/th/id/OIP.IyzEkoSpyLZfovs2RR5lYwHaE8?rs=1&pid=ImgDetMain"width=200</a>
+    <a href="https://en.wikipedia.org/wiki/JavaScript"><img src="https://logosdownload.com/logo/javascript-logo-big.png" width=70</a>
+    <br>
+    <br>
+    <br>
+    <br>
+<a href="https://en.wikipedia.org/wiki/Email"><img src="https://static.vecteezy.com/system/resources/previews/002/557/425/original/google-mail-icon-logo-isolated-on-transparent-background-free-vector.jpg"width=40</a>
+<a href="https://en.wikipedia.org/wiki/Telecommunication"><img src="https://is2-ssl.mzstatic.com/image/thumb/Purple126/v4/49/cd/6f/49cd6f09-67e0-f824-6b42-bf7dc7c0285e/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/1200x630wa.png"width=100</a>
+<a  href="https://en.wikipedia.org/wiki/Download_(disambiguation)"><img src="https://th.bing.com/th/id/OIP.PiMjpUbFH3CFbkndROyRLAAAAA?rs=1&pid=ImgDetMain"width=50</a>   
+</body>

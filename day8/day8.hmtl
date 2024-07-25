@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form>
+        <fieldset>
+            <h1>Registration form</h1>  
+            <label for="username">username:</label>
+            <input type="text" id="username" placeholder="name" name="sravani"></br>
+            <br>
+            <label for="pass">password:</label>
+            <input type="password" id="pass" name="text"><br>
+            <br>
+            <label for="mail">mail:</label>
+            <input type="text" id="mail" name="user"><br>
+            <br>
+            <label for="birth">dob:</label>
+            <input type="date" id="birth" name="dob"><br>
+            <br>
+            <label for="file">upload:</label>
+            <input type="file" id="file" name="upload resume"><br>
+            <br>
+            <label for="radio">button:</label>
+            <input type="usernamae" id="radio" name="user"><br>
+            <br>
+            <b>gender<br></b>
+            <label for="user">male:</label>
+        <input type="radio" id="user male" name="gender"><br><br>
+        <label for="user">female:</label>
+        <input type="radio" id="user female" name="gender"><br><br>
+<button>sumbit</button>
+            
+        </fieldset>
+    </form>
+</body>
+</html>
